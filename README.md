@@ -2,9 +2,9 @@
 
 ## Description
 
-Welcome to the React portfolio,This first portfolio project using react, This reposortiry will be good guide for beginners
+Welcome to my React portfolio! This project serves as my first portfolio using React. It's designed to be a helpful guide for beginners looking to create their own portfolios.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -13,13 +13,16 @@ Welcome to the React portfolio,This first portfolio project using react, This re
 
 ## Installation
 
-You can visit from this link ()
+You can access the portfolio by visiting [this link](https://challange20-reactportfolio.onrender.com/).
 
 ## Usage
 
-Go website url,Navigate between pages,Download my resume example if needed,if you want to contact me , you use contact page to send me an email.
+To use the portfolio:
 
----
+- Simply visit the provided website URL.
+- Navigate between pages to explore different sections.
+- Download my resume example if needed.
+- If you wish to contact me, you can use the contact page to send me an email.
 
 ## License
 
@@ -27,10 +30,7 @@ Go website url,Navigate between pages,Download my resume example if needed,if yo
 
 ## Badges
 
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+- ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
